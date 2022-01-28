@@ -49,7 +49,7 @@ li {
 
 .top-container {
   height: 100vh;
-  background: url("images/Fotoram.io.jpg") no-repeat;
+  background-image: url("images/Fotoram.io.jpg");
   filter: grayscale(25%);
   background-size: cover;
 }
