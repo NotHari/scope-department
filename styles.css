@@ -52,6 +52,10 @@ li {
   background-image: url("images/Fotoram.io.jpg");
   filter: grayscale(25%);
   background-size: cover;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
 }
 .middle-container {
   margin: 0 auto;
@@ -61,11 +65,7 @@ li {
 
 .top-content {
   color: white;
-  padding-top: 23rem;
   text-align: center;
-  display: block;
-  justify-content: center;
-  text-emphasis: center;
 }
 
 .about {
